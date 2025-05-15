@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JM-locacoes/static/css/main.349fd1c9.css",
+    "main.js": "/JM-locacoes/static/js/main.c15f8907.js",
+    "index.html": "/JM-locacoes/index.html",
+    "main.349fd1c9.css.map": "/JM-locacoes/static/css/main.349fd1c9.css.map",
+    "main.c15f8907.js.map": "/JM-locacoes/static/js/main.c15f8907.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.349fd1c9.css",
+    "static/js/main.c15f8907.js"
+  ]
+}
