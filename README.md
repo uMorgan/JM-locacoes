@@ -1,4 +1,4 @@
-# 🌐 JM Locações - Site Institucional
+# 🌐 JM Locações
 
 Website oficial da **JM Locações**, empresa especializada em **locação de máquinas pesadas** para obras, terraplanagem e demolição.  
 Desenvolvido com foco em identidade visual marcante, usabilidade e performance.
