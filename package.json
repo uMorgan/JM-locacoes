@@ -1,7 +1,7 @@
 {
   "name": "jm-locacoes",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://umorgan.github.io/JM-locacoes",
   "dependencies": {
     "@types/node": "^16.18.0",
